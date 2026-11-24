@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jasper-report-api:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jasper_report_api_jar</output-path>
+    <root id="archive" name="jasper-report-api.jar">
+      <element id="module-output" name="jasper-report-api" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../maharam/Downloads/jar_files/jasperreports-6.21.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

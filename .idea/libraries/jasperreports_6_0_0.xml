@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jasperreports-6.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.21.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Software/JasperSoft Studio/OracleDriver/JASPER_REPORT_Jar_ojdbc8-19.3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
